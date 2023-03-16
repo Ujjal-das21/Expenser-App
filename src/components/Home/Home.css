@@ -1,0 +1,43 @@
+#homepage{
+    background-color: #eeff03 ;
+    padding: 1.25rem;
+    position: relative;
+}
+#startBtn{
+    position: absolute;
+    right: 2rem;
+}
+#homepage h1{
+    margin-bottom: 1.5rem;
+ font-size: 2.5rem;
+ font-weight: 900;
+ color: #222222;
+ color: navy;
+ text-shadow: 0.225rem 0.225rem #fafafa;
+ letter-spacing: 0.125rem;
+ /* font-family: 'Lato', sans-serif;
+ font-family: 'McLaren', cursive;
+font-family: 'Montserrat', sans-serif; */
+font-family: 'Oswald', sans-serif;
+/* font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;   */
+}
+#homepage p{
+  font-size: 1.75rem;
+  font-weight: 600;
+   font-family: 'Lato', sans-serif;
+ /* font-family: 'McLaren', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;   */
+color: #222222;
+text-shadow: 0.225rem 0.225rem #fafafa;
+text-align:end;
+margin-bottom: 1.5rem;
+letter-spacing: 0.1rem;
+}

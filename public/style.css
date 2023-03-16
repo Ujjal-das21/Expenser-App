@@ -1,0 +1,136 @@
+/* Mobile Responsive */
+*{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  
+}
+.brand{
+  font-weight: bolder;
+  font-size: 1.75rem;
+  letter-spacing: 0.275rem;
+}
+body{
+  margin: 0;
+  padding: 0;
+  /* background-color: #eeff03; */
+  /* background-color: #faf9f4; */
+  /* background-color: #222222; */
+  box-sizing: border-box;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  
+  
+  
+ 
+}
+#root{
+  margin: 0;
+  padding: 0;
+}
+/* Components */
+.component-heading{
+  background-color: #222222;
+  color: #eeff03;
+  margin: 0.425rem 0 0.425rem 0;
+  padding:0.375rem 0.5rem 0.375rem 0.5rem;
+  /* width: 38%; */
+  width: fit-content;
+  border-radius: 10%;
+}
+.app-table{
+  margin: auto;
+  width: 85vw;
+ background-color: #faf9f4;
+ color: #222222;
+ border-radius: 5%;
+
+}
+.app-table thead{
+  /* border: 1px solid #222222; */
+  background-color: #222222;
+  color: #faf9f4;
+ 
+  border-radius: 5%;
+ 
+}
+.app-table thead tr{
+ border-radius: 50%;
+ 
+}
+.table-heading{
+ font-weight: 300;
+ font-size:1rem ;
+ letter-spacing: 0.115rem;
+
+}
+.table>:not(caption)>*>* {
+  padding: 0.15rem 0.15rem;
+}
+.table-data{
+  font-weight: 300;
+  letter-spacing:0.145rem ;
+}
+.text-input-space{
+  width: 50vw;
+}
+.app-button{
+  border-color: #222222;
+  
+  background-color: #222222;
+  color: #faf9f4;
+  border-radius: 20%;
+}
+.app-button:disabled{
+  background-color:#757474 ;
+  border: #222222;
+}
+.app-button img{
+  height: 1.5rem;
+  width: 1.5rem;
+  color: #faf9f4;
+}
+.next-button{
+  border-color: #222222;
+  background-color: #222222;
+  color: #eeff03;
+}
+.next-button img{
+  height: 1rem;
+  width: 2.5rem;
+}
+.next-button:disabled{
+  border: #222222;
+  background-color: #757474;
+}
+.alert{
+  color: red;
+ font-weight: bold;
+ font-size: 1rem;
+ /* letter-spacing: 0.03rem; */
+}
+/* Properties */
+
+.black-color{
+  background-color:#222222 ;
+  color:#eeff03 ;
+ }
+ .yellow-color{
+  color:#222222 ;
+  background-color:#eeff03 ;
+ }
+ .white-color{
+  color: #faf9f4;
+ 
+ }
+ .white-background{
+  background-color: #faf9f4;
+  border: #faf9f4;
+ }
+ /* font-family: 'Lato', sans-serif;
+font-family: 'McLaren', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */

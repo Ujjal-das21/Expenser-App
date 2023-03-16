@@ -1,0 +1,12 @@
+.website-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 2px solid black; */
+    height: auto;
+    min-height: 60vh;
+    /* max-height: 75vh; */
+    height: auto;
+    /* background-color: #222222; */
+    /* background-color: #faf9f4; */
+    /* background-color: #eeff03; */
+}

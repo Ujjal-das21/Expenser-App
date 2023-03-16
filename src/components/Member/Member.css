@@ -1,0 +1,29 @@
+.member-div{
+    /* border: 2px solid black; */
+    width: 100%;
+     /* background-color: #222222; */
+     background-color: #faf9f4;
+     /* background-color: #eeff03; */
+}
+#member-add-button{
+    width: fit-content;
+    position: relative;
+    /* left: 2rem; */
+}
+#table-row{
+    /* border: 1px solid black; */
+    margin: 1rem 0 0.125rem 0;
+    padding: 0.125rem 0.1rem 0.125rem 0.1rem;
+}
+#member-input{
+    height: fit-content;
+    /* border: 1px solid black; */
+    margin: 0.125rem 0 1.875rem 0;
+    display: flex;
+  align-items: center;
+  justify-content: center
+}
+#member-proceed{
+    /* border: 1px solid black; */
+    margin: 2rem 0 2rem 0 ;
+}

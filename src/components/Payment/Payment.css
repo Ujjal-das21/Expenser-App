@@ -1,0 +1,11 @@
+/* .payment-div{
+   
+  
+} */
+#payment-reset{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+#payment-input .card{
+    --bs-card-border-width:none;
+}

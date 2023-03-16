@@ -1,0 +1,23 @@
+.footer-div{
+    /* border: 2px solid black; */
+    background-color: #faf9f4;
+   margin-top: 2rem;
+   /* position: fixed; */
+   /* position: absolute;
+   bottom: 0; */
+   
+   height: 12vh;
+   display: flex;
+  align-items: center;
+  justify-content: center 
+}
+.footer-div a{
+    color: #222222;
+}
+#copywrite{
+    height:2rem
+}
+#copywrite p{
+    color: #111111;
+    color:grey;
+}

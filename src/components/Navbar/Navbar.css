@@ -1,0 +1,11 @@
+.navbar-div{
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid black; */
+    margin-bottom: 2.75rem;
+    
+}
+.navbar{
+    background-color:#222222 ;
+ color:#eeff03 ;
+}
